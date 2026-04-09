@@ -2,4 +2,8 @@ Employee List:
 - Ahmed
 - Sara
 - Mohamed
--Ali
+- Ali
+
+Employee Salaries:
+- Ahmed: 5000
+- Sara: 6000
